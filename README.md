@@ -119,4 +119,5 @@ Rope has four main feature categories, and in each of those four there are four 
     * Observations
     * Proofs
     * Extensions
+
 Notice there is another convention integrated into the nomenclature. Lower categories initially reference aforementioned categories. This means that Express inherits everything from Recall, Observe, and Prove. This will help with memorizing, but it will mean that initial planning is going to be vital to achieve computational universality. In practice, it will also mean that Express will probably get the most use in code, while Recall will get the most review and revision on the backend.
