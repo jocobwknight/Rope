@@ -32,3 +32,89 @@ And because Rope is as basic as possible, it is rewritable all the way to the ro
 Finally, Rope can also define algorithmic standards, which, if set up properly, can allow for bidirectional translation to and from higher level languages. If set up, it can serve as a translator from one language to another.
 
 This, in its own way, answers the original question. Assuming perfection is impossible, and change is constant, then the answer is to make “change” itself as easy as possible.
+
+## Nomenclature
+* Recall
+  * Actual
+    * Literals
+    * Objects
+    * Variables
+    * Enclosures
+  * Referential
+    * Actualizations
+    * Code
+    * Imports
+    * Designs
+  * Mutative
+    * Actualizations
+    * References
+    * Operations
+    * Utilities
+  * Immaterial
+    * Actualizations
+    * References
+    * Mutations
+    * Selves
+* Observe
+  * Recallable
+    * Actualizations
+    * References
+    * Mutations
+    * Immaterials
+  * Exterior
+    * Recalls
+    * Equipment
+    * Systems
+    * Telemetries
+  * Comparative
+    * Recalls
+    * Exteriors
+    * Booleans
+    * Iterations
+  * Active
+    * Recalls
+    * Exteriors
+    * Comparisons
+    * Threads
+* Prove
+  * Recallable
+    * Actualizations
+    * References
+    * Mutations
+    * Immaterials
+  * Observable
+    * Recalls
+    * Exteriors
+    * Comparisons
+    * Activities
+  * Mathematical
+    * Recalls
+    * Observations
+    * Calculations
+    * Algorithms
+  * Exceptional
+    * Recalls
+    * Observations
+    * Mathematics
+    * Errors
+* Express
+  * Recallable
+    * Actualizations
+    * References
+    * Mutations
+    * Immaterials
+  * Observable
+    * Recollections
+    * Exteriors
+    * Comparisons
+    * Activities
+  * Provable
+    * Recalls
+    * Observations
+    * Mathematics
+    * Exceptions
+  * Elementary
+    * Recalls
+    * Observations
+    * Proofs
+    * Extensions
