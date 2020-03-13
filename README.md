@@ -6,12 +6,12 @@ A time traveler's programming language
 Rope is an possible answer to a what-if question:
 "What if we could take everything we know about programming languages back to the beginning and do it all over again?"
 
-A conventional answer is combining all past mistakes and successes and try to form a perfect marriage of form and function. The problem, though, is entropy. Imperfection cannot naturally evolve into perfection. Secondly, there is hubris; while entropy can be resisted with idealism, hubris will mislead us toward a false ideal. Together, this means that we cannot achieve perfection by accident or on purpose. Most would call this "pessimism."
+A conventional answer is take the best of what we have and send it back. But that solution would do nothing more than move us further down the same path. That path, to be blunt, is a chain of dissatisfaction. Each new generation claims to cure the flaws of the last generation. Perfection will ever be achieved that way, because perfection does not arise from entropy.
 
 Pessimism isn't for everyone, but Rope embraces it! Rope answers the question differently:
 “Perfection is impossible, so let's aim for procrastination instead!”
 
-Instead of a language that tries to do anything itself, Rope is designed to make it easier for someone else to do the work. You could think of it as a language to define languages. For this, it offers four basic functions:
+Instead of a language that tries to do anything itself, or even tries to be perfect, Rope is designed to make it easier for the next generation. You could think of it as a language to define languages. For this, it offers four basic functions:
 
 ## Recall
 The ability to use information that already exists
