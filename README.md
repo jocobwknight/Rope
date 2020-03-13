@@ -34,6 +34,7 @@ Finally, Rope can also define algorithmic standards, which, if set up properly, 
 This, in its own way, answers the original question. Assuming perfection is impossible, and change is constant, then the answer is to make “change” itself as easy as possible.
 
 ## Nomenclature
+Rope has four main feature categories, and in each of those four there are four sub-features. In each of those four sub-features, there are four (sub-)sub-features. As more needs arise, more nested layers can be added. This fractal pattern will help with organization and discussion, as well as become a central part of the language parsing. While this is just the beginning stage and these are subject to change, I have written out the first three layers:
 * Recall
   * Actual
     * Literals
@@ -118,3 +119,4 @@ This, in its own way, answers the original question. Assuming perfection is impo
     * Observations
     * Proofs
     * Extensions
+Notice there is another convention integrated into the nomenclature. Lower categories initially reference aforementioned categories. This means that Express inherits everything from Recall, Observe, and Prove. This will help with memorizing, but it will mean that initial planning is going to be vital to achieve computational universality. In practice, it will also mean that Express will probably get the most use in code, while Recall will get the most review and revision on the backend.
